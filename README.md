@@ -45,10 +45,11 @@ bash script/kd.sh
 ## Reference
 To cite our paper, please use this BibTex
 ```bibtex
-@article{lee2024harmaug,
-  title={{HarmAug}: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models},
-  author={Lee, Seanie and Seong, Haebin and Lee, Dong Bok and Kang, Minki and Chen, Xiaoyin and Wagner, Dominik and Bengio, Yoshua and Lee, Juho and Hwang, Sung Ju},
-  journal={arXiv preprint arXiv:2410.01524},
-  year={2024}
+@inproceedings{
+lee2025harmaug,
+title={HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models},
+author={Seanie Lee and Haebin Seong and Dong Bok Lee and Minki Kang and Xiaoyin Chen and Dominik Wagner and Yoshua Bengio and Juho Lee and Sung Ju Hwang},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=y3zswp3gek}
 }
-```
