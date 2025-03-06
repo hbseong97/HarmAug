@@ -7,7 +7,7 @@ Seanie Lee*, Haebin Seong*, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagn
 
 [[arXiv link]](https://arxiv.org/abs/2410.01524)  
 [[Model link]](https://huggingface.co/hbseong/HarmAug-Guard)  
-[[Dataset link]](https://huggingface.co/datasets/AnonHB/HarmAug_generated_dataset)
+[[Dataset link]](https://huggingface.co/datasets/hbseong/HarmAug_generated_dataset)
 
 
 ![concept_figure](https://github.com/user-attachments/assets/3e61f7c6-e0c2-4107-bb4e-9b4d2c7ba961)
